@@ -1,5 +1,5 @@
-		Chips Activity Selection Project
-	------------------------------------------
+		      Chips Activity Selection Project
+		------------------------------------------
 	This program will tell you how to reach the most activities.
 	Current sortable time frame is 0 to 16 for up to 20 activities.
 
