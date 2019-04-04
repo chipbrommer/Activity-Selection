@@ -1,0 +1,101 @@
+		Chips Activity Selection Project
+	------------------------------------------
+	This program will tell you how to reach the most activities.
+	Current sortable time frame is 0 to 16 for up to 20 activities.
+
+Enter the number of activities: 11
+
+
+Activity 1
+	Enter Start Time: 1
+	Enter End Time: 4
+
+Activity 2
+	Enter Start Time: 3
+	Enter End Time: 5
+
+Activity 3
+	Enter Start Time: 0
+	Enter End Time: 6
+
+Activity 4
+	Enter Start Time: 5
+	Enter End Time: 7
+
+Activity 5
+	Enter Start Time: 3
+	Enter End Time: 9
+
+Activity 6
+	Enter Start Time: 5
+	Enter End Time: 9
+
+Activity 7
+	Enter Start Time: 6
+	Enter End Time: 10
+
+Activity 8
+	Enter Start Time: 8
+	Enter End Time: 11
+
+Activity 9
+	Enter Start Time: 8
+	Enter End Time: 12
+
+Activity 10
+	Enter Start Time: 2
+	Enter End Time: 14
+
+Activity 11
+	Enter Start Time: 12
+	Enter End Time: 16
+
+
+Your Schedule:
+               0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16
+Activity 1:    _  X  X  X  X  _  _  _  _  _  _  _  _  _  _  _  _
+Activity 2:    _  _  _  X  X  X  _  _  _  _  _  _  _  _  _  _  _
+Activity 3:    X  X  X  X  X  X  X  _  _  _  _  _  _  _  _  _  _
+Activity 4:    _  _  _  _  _  X  X  X  _  _  _  _  _  _  _  _  _
+Activity 5:    _  _  _  X  X  X  X  X  X  X  _  _  _  _  _  _  _
+Activity 6:    _  _  _  _  _  X  X  X  X  X  _  _  _  _  _  _  _
+Activity 7:    _  _  _  _  _  _  X  X  X  X  X  _  _  _  _  _  _
+Activity 8:    _  _  _  _  _  _  _  _  X  X  X  X  _  _  _  _  _
+Activity 9:    _  _  _  _  _  _  _  _  X  X  X  X  X  _  _  _  _
+Activity 10:   _  _  X  X  X  X  X  X  X  X  X  X  X  X  X  _  _
+Activity 11:   _  _  _  _  _  _  _  _  _  _  _  _  X  X  X  X  X
+
+Selected Activities: 
+               0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16
+Activity 1:    _  X  X  X  X  _  _  _  _  _  _  _  _  _  _  _  _
+Activity 4:    _  _  _  _  _  X  X  X  _  _  _  _  _  _  _  _  _
+Activity 8:    _  _  _  _  _  _  _  _  X  X  X  X  _  _  _  _  _
+Activity 11:   _  _  _  _  _  _  _  _  _  _  _  _  X  X  X  X  X
+
+
+Would you like to check another schedule?
+Enter Y for Yes, Else ends program.
+	User Input: y
+
+		------------------------------------------
+
+Enter the number of activities: 0
+
+
+
+Your Schedule:
+               0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16
+
+Selected Activities: 
+               0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16
+
+No Actvities Entered.
+
+
+
+Would you like to check another schedule?
+Enter Y for Yes, Else ends program.
+	User Input: n
+
+Press any key to end...
+Program ended with exit code: 0
